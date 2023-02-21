@@ -10,7 +10,7 @@ Im a product devoloper working at the soil biology department at NMBU.
 - Programming
 
 ## Currently Working on:
-#### [ESP-Gamma-Detector](https://github.com/fredriknk/ESP-Gamma-Detector)
+#### [ESP-Gamma-Detector](https://github.com/fredriknk/ESP-Gamma-Detector) - Gamma Scintillation Spctrometer - Forked project, converted to kicad and ESP32
 
 ## Opensource projects:
 
