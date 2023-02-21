@@ -9,6 +9,9 @@ Im a product devoloper working at the soil biology department at NMBU.
 - Data Visualization
 - Programming
 
+## Currently Working on:
+#### [ESP-Gamma-Detector](https://github.com/fredriknk/ESP-Gamma-Detector)
+
 ## Opensource projects:
 
 #### [Eikgeiger](https://github.com/fredriknk/eikgeiger) - Small form factor geiger counter, usb powered with a 1200v power supply, uses SBM-20 tubes
