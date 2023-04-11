@@ -10,6 +10,7 @@ Im a product devoloper working at the soil biology department at NMBU.
 - Programming
 
 ## Currently Working on:
+#### [Soil Moisture Probe](https://github.com/fredriknk/soil-moisture-pcb) - Zigbee based 80mhz soil moisture and temperature probe.
 #### [ESP-Gamma-Detector](https://github.com/fredriknk/ESP-Gamma-Detector) - Gamma Scintillation Counter - Forked project, converted to kicad and ESP32
 
 ## Opensource projects:
