@@ -10,6 +10,7 @@ Im a product devoloper working at the soil biology department at NMBU.
 - Programming
 
 ## Currently Working on:
+#### [IOT Relay](https://github.com/fredriknk/esprelay) - IOT Wifi relays for smartifying every dumbdevice i own.
 #### [Soil Moisture Probe](https://github.com/fredriknk/SoilSense) - Zigbee/BT5.0 battery driven 80mhz capacitive soil moisture and temperature probe.
 #### [ESP-Gamma-Detector](https://github.com/fredriknk/ESP-Gamma-Detector) - Gamma Scintillation Counter - Forked project, converted to kicad and ESP32
 
