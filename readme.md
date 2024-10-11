@@ -19,4 +19,4 @@ Im a product devoloper working at the soil biology department at NMBU.
 #### [Eikgeiger](https://github.com/fredriknk/eikgeiger) - Small form factor geiger counter, usb powered with a 1200v power supply, uses SBM-20 tubes
 #### [SPImux](https://github.com/fredriknk/spimux) - daisy chainable 16 channel eurocard mux device
 #### [FFR-Analysis](https://github.com/fredriknk/ffr_analysis) - Collaboration project with u/[larsmolstad](https://github.com/larsmolstad) where i contributed GUI additions and visualisation tools
-#### [ERT interpolation script](https://github.com/fredriknk/Resipy_interpolate) - Script to interpolate heights for ERT measurements based on lidar maps from "høydedata.no"
+#### [ERT interpolation script](https://github.com/fredriknk/Resipy_interpolate) - Script to interpolate heights for ERT measurements based on lidar maps from [høydedata.no](https://hoydedata.no/LaserInnsyn2/)
