@@ -10,7 +10,7 @@ Im a product devoloper working at the soil biology department at NMBU.
 - Programming
 
 ## Currently Working on:
-#### [IOT Relay](https://github.com/fredriknk/esprelay) - IOT Wifi relays for smartifying every dumbdevice i own.
+#### [uPLC](https://github.com/fredriknk/uPLC-Stack)) - IOT Wifi relays for smartifying every dumbdevice i own.
 #### [Soil Moisture Probe](https://github.com/fredriknk/ssense) - Zigbee/BT5.0 battery driven 76mhz capacitive soil moisture, electric conductivity, and temperature probe.
 #### [Methane Sensor](https://github.com/fredriknk/msense) - LTE-M Methane sensor for detecting methane emissions from manure cellars
 
