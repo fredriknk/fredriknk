@@ -1,6 +1,4 @@
-# Fredrik Nerol Beilegaard
-
-Im a product devoloper working at the soil biology department at NMBU.
+# Fredrik N B
 
 ## Main areas of work and experience:
 - Electronic Design and production
