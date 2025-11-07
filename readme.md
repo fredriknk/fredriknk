@@ -8,7 +8,7 @@
 - Programming
 
 ## Currently Working on:
-#### [Parametric FEM Antenna Designer][(https://github.com/fredriknk/openEMS_optimizer](https://github.com/fredriknk/EMerge_Optimizer)) - Parametric antenna designer and optimizer, utilizing [EMerge](https://github.com/FennisRobert/EMerge/) FEM EM solver. 
+#### [Parametric FEM Antenna Designer][(https://github.com/fredriknk/openEMS_optimizer](https://github.com/fredriknk/EMerge_Optimizer) - Parametric antenna designer and optimizer, utilizing [EMerge](https://github.com/FennisRobert/EMerge/) FEM EM solver. 
 #### [Soil Moisture Probe](https://github.com/fredriknk/ssense) - Zigbee/BT5.0 battery driven 76mhz capacitive soil moisture, electric conductivity, and temperature probe.
 #### [Methane Sensor](https://github.com/fredriknk/msense) - LTE-M Methane sensor for detecting methane emissions from manure cellars
 
