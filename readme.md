@@ -9,7 +9,7 @@
 
 ## Currently Working on:
 #### [Freecad enclosure splitting plugin](https://github.com/fredriknk/split2enclosure) - GEnerate enclosures with lips and locking detents from solid model enclosures
-#### [Emerge high gain antenna designer and optimizer](https://github.com/fredriknk/emerge_loaded_antenna) - Design and generate coaxial coil antennas 6dBi antennas
+#### [Emerge high gain antenna designer and optimizer](https://github.com/fredriknk/emerge_loaded_antenna) - Design and generate coaxial coil antennas with about 6dBi gain
 
 
 
