@@ -8,12 +8,14 @@
 - Programming
 
 ## Currently Working on:
-#### [Freecad enclosure splitting plugin](https://github.com/fredriknk/split2enclosure) - GEnerate enclosures with lips and locking detents from solid model enclosures
-#### [Emerge high gain antenna designer and optimizer](https://github.com/fredriknk/emerge_loaded_antenna) - Design and generate coaxial coil antennas with about 6dBi gain
 
-
+#### [FFR Waypoint analyzer](https://github.com/fredriknk/ffr_waypoint_analyzer) - Program for analyzing and edit FFR waypoints 
+#### [Parametric autochamber](https://github.com/fredriknk/Parametric_Autochamber) - Freecad project for generating custom chamber 3d models 
+#### [Lora repeater calculator](https://github.com/fredriknk/repeaternet) - Tool for connecting distant locations using lora mesh.
 
 ## Opensource projects:
+#### [Freecad enclosure splitting plugin](https://github.com/fredriknk/split2enclosure) - Generate enclosures with lips and locking detents from solid model enclosures
+#### [Emerge high gain antenna designer and optimizer](https://github.com/fredriknk/emerge_loaded_antenna) - Design and generate coaxial coil antennas with about 6dBi gain
 #### [Parametric FEM Antenna Designer](https://github.com/fredriknk/EMerge_Optimizer) - Parametric antenna designer and optimizer, utilizing [EMerge](https://github.com/FennisRobert/EMerge/) FEM EM solver. 
 #### [Soil Moisture Probe](https://github.com/fredriknk/ssense) - Zigbee/BT5.0 battery driven 76mhz capacitive soil moisture, electric conductivity, and temperature probe.
 #### [Methane Sensor](https://github.com/fredriknk/msense) - LTE-M Methane sensor for detecting methane emissions from manure cellars
