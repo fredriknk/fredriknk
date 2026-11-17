@@ -8,7 +8,7 @@
 - Programming
 
 ## Currently Working on:
-
+#### [FFR-Analysis 2.0 Alpha](https://github.com/fredriknk/ffr_analysis) - Complete rust rewrite of FFR_analysis with local runner.
 #### [FFR Waypoint analyzer](https://github.com/fredriknk/ffr_waypoint_analyzer) - Program for analyzing and edit FFR waypoints 
 #### [Parametric autochamber](https://github.com/fredriknk/Parametric_Autochamber) - Freecad project for generating custom chamber 3d models 
 #### [Lora repeater calculator](https://github.com/fredriknk/repeaternet) - Tool for connecting distant locations using lora mesh.
@@ -22,6 +22,5 @@
 #### [uPLC](https://github.com/fredriknk/uPLC-Stack) - IOT Wifi relays for smartifying every dumbdevice i own.
 #### [Eikgeiger](https://github.com/fredriknk/eikgeiger) - Small form factor geiger counter, usb powered with a 1200v power supply, uses SBM-20 tubes
 #### [SPImux](https://github.com/fredriknk/spimux) - daisy chainable 16 channel eurocard mux device
-#### [FFR-Analysis](https://github.com/fredriknk/ffr_analysis) - Collaboration project with u/[larsmolstad](https://github.com/larsmolstad) where i contributed GUI additions and visualisation tools
 #### [ERT interpolation script](https://github.com/fredriknk/Resipy_interpolate) - Script to interpolate heights for ERT measurements based on lidar maps from [høydedata.no](https://hoydedata.no/LaserInnsyn2/)
 #### [Parametric Antenna Designer](https://github.com/fredriknk/openEMS_optimizer) - Parametric antenna designer and optimizer, utilizing OpenEMS FDTD solver. 
