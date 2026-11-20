@@ -10,11 +10,11 @@
 ## Currently Working on:
 #### [Footprint simulations](https://github.com/fredriknk/UMEP_Input_generator) - Simulating eddie tower footprints using low res wind and remote sensing data
 #### [FFR-Analysis 2.0 Alpha](https://github.com/fredriknk/ffr_analysis) - Complete rust rewrite of FFR_analysis with local runner.
-#### [FFR Waypoint analyzer](https://github.com/fredriknk/ffr_waypoint_analyzer) - Program for analyzing and edit FFR waypoints 
 #### [Parametric autochamber](https://github.com/fredriknk/Parametric_Autochamber) - Freecad project for generating custom chamber 3d models 
 #### [Lora repeater calculator](https://github.com/fredriknk/repeaternet) - Tool for connecting distant locations using lora mesh.
 
 ## Opensource projects:
+#### [FFR Waypoint analyzer](https://github.com/fredriknk/ffr_waypoint_analyzer) - Program for analyzing and edit FFR waypoints 
 #### [Freecad enclosure splitting plugin](https://github.com/fredriknk/split2enclosure) - Generate enclosures with lips and locking detents from solid model enclosures
 #### [Emerge high gain antenna designer and optimizer](https://github.com/fredriknk/emerge_loaded_antenna) - Design and generate coaxial coil antennas with about 6dBi gain
 #### [Parametric FEM Antenna Designer](https://github.com/fredriknk/EMerge_Optimizer) - Parametric antenna designer and optimizer, utilizing [EMerge](https://github.com/FennisRobert/EMerge/) FEM EM solver. 
